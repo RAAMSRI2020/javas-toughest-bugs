@@ -1,6 +1,6 @@
 # Java's Toughest Bugs
 This is the repository for the LinkedIn Learning course Java's Toughest Bugs. The full course is available from [LinkedIn Learning][URL-lil-course].
-
+<!-- It is for my learning purpose -->
 ![Java's Toughest Bugs][URL-lil-thumbnail]
 
 Troubleshooting is a key skill in Java programming, but what are best practices for finding, fixing, and hopefully preventing bugs? In this course, software developer Kathryn Hodge addresses how to handle some of the toughest bugs you’ll encounter in Java. Gain an understanding of the significance and impact of bugs in Java applications while you discover various bug detection techniques and essential debugging fundamentals. Explore specific bug types, including null pointer exceptions, endless loops, and thread-related issues, and build up the knowledge and skills to address them. Plus, learn about bugs related to data serialization and deserialization using Jackson and step through real-world case studies for analyzing and solving complex bugs.
